@@ -6,7 +6,4 @@
     .font-inter{
         font-family: "Inter", sans-serif;
     }
-    .btn{
-        background-color: linear-gradient(rgba(145, 0, 248, 1),rgba(251, 9, 180, 1) ,  rgba(247, 233, 63, 1));
-    }
 }
